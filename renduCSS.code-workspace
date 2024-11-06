@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../flexbox"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "renduCSS"
+	}
+}
